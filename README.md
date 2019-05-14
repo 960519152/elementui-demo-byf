@@ -1,6 +1,9 @@
 # vue-examine-backend
 
-> [C后端管理平台
+演示地址
+http://47.104.244.210:8080/elementui-demo/#/Tx
+
+> 后端管理平台
 
 ## Build Setup
 
